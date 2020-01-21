@@ -1,7 +1,7 @@
-Falling Mud makes mud fall exactly like sand! You might be thinking, "damn  the jungle is gonna be screwed". THe jungle grass keeps the jungle perfectly fine.
+Falling Mud makes mud fall exactly like sand! You might be thinking, "damn the jungle is gonna be screwed". The jungle grass keeps the jungle perfectly fine.
 
-Discord: 
-Forum: 
-Github: 
+Discord: https://discord.gg/VrxSx4B
+Forum: https://forums.terraria.org/index.php?threads/falling-mud.85518/
+Github: https://github.com/GoodPro712/FallingMud
 
-Thanks so much to blushie's old code that allowed me to make a falling block. From there, I modifed the block to work with mud, not its own block and fixed some errors along the way
+Thanks so much to Blushie's old code that allowed me to make a falling block. From there, I modified the block to work with mud and fixed some errors along the way
